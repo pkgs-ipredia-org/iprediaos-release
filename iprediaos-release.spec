@@ -169,7 +169,7 @@ rm -rf $RPM_BUILD_ROOT
 %license LICENSE
 
 %changelog
-* Fre Jun 25 2014 Mattias Ohlsson <mattias.ohlsson@inprose.com> - 2-0.5
+* Fri Jun 25 2014 Mattias Ohlsson <mattias.ohlsson@inprose.com> - 2-0.5
 - Update for IprediaOS 2 Rawhide.
 
 * Mon Jun 18 2012 Mattias Ohlsson <mattias.ohlsson@inprose.com> - 1-1
